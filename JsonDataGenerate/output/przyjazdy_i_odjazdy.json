@@ -1,0 +1,1504 @@
+{
+    "autobusy": [
+        {
+            "id": 0,
+            "firma": "PKS Opole",
+            "numer_rejsu": "JRW-527",
+            "odjazd": {
+                "miasto": "Toruń",
+                "data": "2025-04-11",
+                "godzina": "23:44"
+            },
+            "przyjazd": {
+                "miasto": "Koszalin",
+                "data": "2025-04-12",
+                "godzina": "02:44"
+            }
+        },
+        {
+            "id": 1,
+            "firma": "PKS Tarnobrzeg",
+            "numer_rejsu": "GYW-903",
+            "odjazd": {
+                "miasto": "Lubin",
+                "data": "2025-10-04",
+                "godzina": "23:53"
+            },
+            "przyjazd": {
+                "miasto": "Zamość",
+                "data": "2025-10-05",
+                "godzina": "04:53"
+            }
+        },
+        {
+            "id": 2,
+            "firma": "PKS Suwałki",
+            "numer_rejsu": "LEQ-260",
+            "odjazd": {
+                "miasto": "Legnica",
+                "data": "2025-01-08",
+                "godzina": "13:11"
+            },
+            "przyjazd": {
+                "miasto": "Elbląg",
+                "data": "2025-01-08",
+                "godzina": "22:11"
+            }
+        },
+        {
+            "id": 3,
+            "firma": "PKS Siedlce",
+            "numer_rejsu": "WTF-162",
+            "odjazd": {
+                "miasto": "Gdynia",
+                "data": "2025-04-07",
+                "godzina": "22:01"
+            },
+            "przyjazd": {
+                "miasto": "Opole",
+                "data": "2025-04-08",
+                "godzina": "06:01"
+            }
+        },
+        {
+            "id": 4,
+            "firma": "PKS Mrągowo",
+            "numer_rejsu": "WPN-112",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-05-04",
+                "godzina": "21:16"
+            },
+            "przyjazd": {
+                "miasto": "Radom",
+                "data": "2025-05-05",
+                "godzina": "06:16"
+            }
+        },
+        {
+            "id": 5,
+            "firma": "PKS Zielona Góra",
+            "numer_rejsu": "TBS-998",
+            "odjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-02-07",
+                "godzina": "06:36"
+            },
+            "przyjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-02-07",
+                "godzina": "15:36"
+            }
+        },
+        {
+            "id": 6,
+            "firma": "PKS Opole",
+            "numer_rejsu": "HFE-954",
+            "odjazd": {
+                "miasto": "Jastrzębie-Zdrój",
+                "data": "2025-11-20",
+                "godzina": "15:43"
+            },
+            "przyjazd": {
+                "miasto": "Lublin",
+                "data": "2025-11-21",
+                "godzina": "00:43"
+            }
+        },
+        {
+            "id": 7,
+            "firma": "PKS Opole",
+            "numer_rejsu": "KWV-769",
+            "odjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-04-24",
+                "godzina": "23:53"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-04-25",
+                "godzina": "05:53"
+            }
+        },
+        {
+            "id": 8,
+            "firma": "PKS Zielona Góra",
+            "numer_rejsu": "ZVU-289",
+            "odjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-02-27",
+                "godzina": "15:42"
+            },
+            "przyjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-02-28",
+                "godzina": "01:42"
+            }
+        },
+        {
+            "id": 9,
+            "firma": "Eurobus",
+            "numer_rejsu": "BBK-621",
+            "odjazd": {
+                "miasto": "Płock",
+                "data": "2025-08-27",
+                "godzina": "23:09"
+            },
+            "przyjazd": {
+                "miasto": "Bielsko-Biała",
+                "data": "2025-08-28",
+                "godzina": "03:09"
+            }
+        },
+        {
+            "id": 10,
+            "firma": "PKS Opole",
+            "numer_rejsu": "OWJ-243",
+            "odjazd": {
+                "miasto": "Legnica",
+                "data": "2025-04-12",
+                "godzina": "14:15"
+            },
+            "przyjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-04-13",
+                "godzina": "00:15"
+            }
+        },
+        {
+            "id": 11,
+            "firma": "PKS Przemyśl",
+            "numer_rejsu": "PCS-990",
+            "odjazd": {
+                "miasto": "Grudziądz",
+                "data": "2025-06-02",
+                "godzina": "12:36"
+            },
+            "przyjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-06-02",
+                "godzina": "15:36"
+            }
+        },
+        {
+            "id": 12,
+            "firma": "PolskiBus",
+            "numer_rejsu": "NKE-318",
+            "odjazd": {
+                "miasto": "Grudziądz",
+                "data": "2025-03-22",
+                "godzina": "07:52"
+            },
+            "przyjazd": {
+                "miasto": "Jelenia Góra",
+                "data": "2025-03-22",
+                "godzina": "16:52"
+            }
+        },
+        {
+            "id": 13,
+            "firma": "PKS Mrągowo",
+            "numer_rejsu": "HWB-971",
+            "odjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-02-08",
+                "godzina": "15:59"
+            },
+            "przyjazd": {
+                "miasto": "Zamość",
+                "data": "2025-02-08",
+                "godzina": "23:59"
+            }
+        },
+        {
+            "id": 14,
+            "firma": "Voyager Transport",
+            "numer_rejsu": "AEV-570",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-04-23",
+                "godzina": "10:41"
+            },
+            "przyjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-04-23",
+                "godzina": "17:41"
+            }
+        },
+        {
+            "id": 15,
+            "firma": "InterBus",
+            "numer_rejsu": "ZFO-336",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-05-20",
+                "godzina": "20:06"
+            },
+            "przyjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-05-20",
+                "godzina": "22:06"
+            }
+        },
+        {
+            "id": 16,
+            "firma": "PKS Polonus",
+            "numer_rejsu": "AQK-696",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-03-24",
+                "godzina": "03:36"
+            },
+            "przyjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-03-24",
+                "godzina": "13:36"
+            }
+        },
+        {
+            "id": 17,
+            "firma": "Voyager Transport",
+            "numer_rejsu": "GJD-379",
+            "odjazd": {
+                "miasto": "Rzeszów",
+                "data": "2025-04-14",
+                "godzina": "17:05"
+            },
+            "przyjazd": {
+                "miasto": "Siemianowice Śląskie",
+                "data": "2025-04-14",
+                "godzina": "22:05"
+            }
+        },
+        {
+            "id": 18,
+            "firma": "MaxBus",
+            "numer_rejsu": "TUY-910",
+            "odjazd": {
+                "miasto": "Ostrołęka",
+                "data": "2025-03-05",
+                "godzina": "22:07"
+            },
+            "przyjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-03-06",
+                "godzina": "06:07"
+            }
+        },
+        {
+            "id": 19,
+            "firma": "PKS Olsztyn",
+            "numer_rejsu": "JCT-756",
+            "odjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-12-21",
+                "godzina": "11:44"
+            },
+            "przyjazd": {
+                "miasto": "Sosnowiec",
+                "data": "2025-12-21",
+                "godzina": "18:44"
+            }
+        },
+        {
+            "id": 20,
+            "firma": "Leo Express",
+            "numer_rejsu": "BJR-272",
+            "odjazd": {
+                "miasto": "Kalisz",
+                "data": "2025-06-22",
+                "godzina": "06:33"
+            },
+            "przyjazd": {
+                "miasto": "Zabrze",
+                "data": "2025-06-22",
+                "godzina": "15:33"
+            }
+        },
+        {
+            "id": 21,
+            "firma": "PKS Płock",
+            "numer_rejsu": "GIJ-449",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-07-14",
+                "godzina": "02:42"
+            },
+            "przyjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-07-14",
+                "godzina": "06:42"
+            }
+        },
+        {
+            "id": 22,
+            "firma": "PKS S.A. Radom",
+            "numer_rejsu": "KIH-763",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-05-16",
+                "godzina": "02:53"
+            },
+            "przyjazd": {
+                "miasto": "Siemianowice Śląskie",
+                "data": "2025-05-16",
+                "godzina": "09:53"
+            }
+        },
+        {
+            "id": 23,
+            "firma": "PKS Płock",
+            "numer_rejsu": "KEF-202",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-03-16",
+                "godzina": "12:49"
+            },
+            "przyjazd": {
+                "miasto": "Kraków",
+                "data": "2025-03-16",
+                "godzina": "16:49"
+            }
+        },
+        {
+            "id": 24,
+            "firma": "PKS Elbląg",
+            "numer_rejsu": "KVC-258",
+            "odjazd": {
+                "miasto": "Legnica",
+                "data": "2025-01-09",
+                "godzina": "20:12"
+            },
+            "przyjazd": {
+                "miasto": "Kielce",
+                "data": "2025-01-10",
+                "godzina": "00:12"
+            }
+        },
+        {
+            "id": 25,
+            "firma": "FlixBus Polska",
+            "numer_rejsu": "GES-552",
+            "odjazd": {
+                "miasto": "Włocławek",
+                "data": "2025-09-03",
+                "godzina": "22:42"
+            },
+            "przyjazd": {
+                "miasto": "Włocławek",
+                "data": "2025-09-04",
+                "godzina": "06:42"
+            }
+        },
+        {
+            "id": 26,
+            "firma": "Eurobus",
+            "numer_rejsu": "CLV-914",
+            "odjazd": {
+                "miasto": "Lublin",
+                "data": "2025-09-10",
+                "godzina": "21:04"
+            },
+            "przyjazd": {
+                "miasto": "Legnica",
+                "data": "2025-09-11",
+                "godzina": "00:04"
+            }
+        },
+        {
+            "id": 27,
+            "firma": "PKS Suwałki",
+            "numer_rejsu": "ELM-699",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-03-20",
+                "godzina": "01:23"
+            },
+            "przyjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-03-20",
+                "godzina": "05:23"
+            }
+        },
+        {
+            "id": 28,
+            "firma": "Lux Express",
+            "numer_rejsu": "CQL-204",
+            "odjazd": {
+                "miasto": "Chorzów",
+                "data": "2025-06-08",
+                "godzina": "23:27"
+            },
+            "przyjazd": {
+                "miasto": "Kalisz",
+                "data": "2025-06-09",
+                "godzina": "09:27"
+            }
+        },
+        {
+            "id": 29,
+            "firma": "Neobus",
+            "numer_rejsu": "SBF-493",
+            "odjazd": {
+                "miasto": "Elbląg",
+                "data": "2025-03-18",
+                "godzina": "18:38"
+            },
+            "przyjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-03-18",
+                "godzina": "23:38"
+            }
+        },
+        {
+            "id": 30,
+            "firma": "PKS Suwałki",
+            "numer_rejsu": "ZDT-255",
+            "odjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-05-15",
+                "godzina": "11:36"
+            },
+            "przyjazd": {
+                "miasto": "Radom",
+                "data": "2025-05-15",
+                "godzina": "14:36"
+            }
+        },
+        {
+            "id": 31,
+            "firma": "PKS Siedlce",
+            "numer_rejsu": "CAC-789",
+            "odjazd": {
+                "miasto": "Szczecin",
+                "data": "2025-12-10",
+                "godzina": "16:42"
+            },
+            "przyjazd": {
+                "miasto": "Inowrocław",
+                "data": "2025-12-11",
+                "godzina": "00:42"
+            }
+        },
+        {
+            "id": 32,
+            "firma": "PKS S.A. Radom",
+            "numer_rejsu": "MCX-591",
+            "odjazd": {
+                "miasto": "Warszawa",
+                "data": "2025-05-03",
+                "godzina": "01:42"
+            },
+            "przyjazd": {
+                "miasto": "Wrocław",
+                "data": "2025-05-03",
+                "godzina": "03:42"
+            }
+        },
+        {
+            "id": 33,
+            "firma": "TransKinga",
+            "numer_rejsu": "KMD-776",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-07-06",
+                "godzina": "17:48"
+            },
+            "przyjazd": {
+                "miasto": "Siemianowice Śląskie",
+                "data": "2025-07-06",
+                "godzina": "22:48"
+            }
+        },
+        {
+            "id": 34,
+            "firma": "PKS Częstochowa",
+            "numer_rejsu": "TYD-427",
+            "odjazd": {
+                "miasto": "Siemianowice Śląskie",
+                "data": "2025-04-17",
+                "godzina": "18:59"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-04-18",
+                "godzina": "02:59"
+            }
+        },
+        {
+            "id": 35,
+            "firma": "Eurobus",
+            "numer_rejsu": "EED-949",
+            "odjazd": {
+                "miasto": "Poznań",
+                "data": "2025-04-01",
+                "godzina": "05:13"
+            },
+            "przyjazd": {
+                "miasto": "Olsztyn",
+                "data": "2025-04-01",
+                "godzina": "14:13"
+            }
+        },
+        {
+            "id": 36,
+            "firma": "InterBus",
+            "numer_rejsu": "PNQ-199",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-05-02",
+                "godzina": "20:14"
+            },
+            "przyjazd": {
+                "miasto": "Poznań",
+                "data": "2025-05-03",
+                "godzina": "06:14"
+            }
+        },
+        {
+            "id": 37,
+            "firma": "PKS Gdańsk",
+            "numer_rejsu": "BDK-679",
+            "odjazd": {
+                "miasto": "Włocławek",
+                "data": "2025-03-19",
+                "godzina": "22:50"
+            },
+            "przyjazd": {
+                "miasto": "Gliwice",
+                "data": "2025-03-20",
+                "godzina": "02:50"
+            }
+        },
+        {
+            "id": 38,
+            "firma": "Neobus",
+            "numer_rejsu": "XZG-719",
+            "odjazd": {
+                "miasto": "Legnica",
+                "data": "2025-08-05",
+                "godzina": "06:21"
+            },
+            "przyjazd": {
+                "miasto": "Koszalin",
+                "data": "2025-08-05",
+                "godzina": "07:21"
+            }
+        },
+        {
+            "id": 39,
+            "firma": "PKS Olsztyn",
+            "numer_rejsu": "OQM-234",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-12-23",
+                "godzina": "23:06"
+            },
+            "przyjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-12-24",
+                "godzina": "02:06"
+            }
+        },
+        {
+            "id": 40,
+            "firma": "Sindbad",
+            "numer_rejsu": "NBP-488",
+            "odjazd": {
+                "miasto": "Tczew",
+                "data": "2025-02-19",
+                "godzina": "16:01"
+            },
+            "przyjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-02-20",
+                "godzina": "01:01"
+            }
+        },
+        {
+            "id": 41,
+            "firma": "PKS Białystok",
+            "numer_rejsu": "CHX-417",
+            "odjazd": {
+                "miasto": "Kielce",
+                "data": "2025-11-05",
+                "godzina": "07:24"
+            },
+            "przyjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-11-05",
+                "godzina": "11:24"
+            }
+        },
+        {
+            "id": 42,
+            "firma": "PKS S.A. Radom",
+            "numer_rejsu": "QFY-723",
+            "odjazd": {
+                "miasto": "Elbląg",
+                "data": "2025-01-25",
+                "godzina": "09:45"
+            },
+            "przyjazd": {
+                "miasto": "Wrocław",
+                "data": "2025-01-25",
+                "godzina": "17:45"
+            }
+        },
+        {
+            "id": 43,
+            "firma": "PKS Opole",
+            "numer_rejsu": "XZO-423",
+            "odjazd": {
+                "miasto": "Katowice",
+                "data": "2025-05-06",
+                "godzina": "21:04"
+            },
+            "przyjazd": {
+                "miasto": "Konin",
+                "data": "2025-05-07",
+                "godzina": "06:04"
+            }
+        },
+        {
+            "id": 44,
+            "firma": "PKS Płock",
+            "numer_rejsu": "BAT-237",
+            "odjazd": {
+                "miasto": "Sosnowiec",
+                "data": "2025-09-07",
+                "godzina": "14:39"
+            },
+            "przyjazd": {
+                "miasto": "Ostrołęka",
+                "data": "2025-09-07",
+                "godzina": "19:39"
+            }
+        },
+        {
+            "id": 45,
+            "firma": "PKS Częstochowa",
+            "numer_rejsu": "XGY-585",
+            "odjazd": {
+                "miasto": "Gdynia",
+                "data": "2025-01-23",
+                "godzina": "20:31"
+            },
+            "przyjazd": {
+                "miasto": "Opole",
+                "data": "2025-01-24",
+                "godzina": "05:31"
+            }
+        },
+        {
+            "id": 46,
+            "firma": "PKS Tarnobrzeg",
+            "numer_rejsu": "SZD-748",
+            "odjazd": {
+                "miasto": "Piotrków Trybunalski",
+                "data": "2025-06-08",
+                "godzina": "21:52"
+            },
+            "przyjazd": {
+                "miasto": "Toruń",
+                "data": "2025-06-09",
+                "godzina": "03:52"
+            }
+        },
+        {
+            "id": 47,
+            "firma": "PKS Elbląg",
+            "numer_rejsu": "JSM-868",
+            "odjazd": {
+                "miasto": "Płock",
+                "data": "2025-08-18",
+                "godzina": "11:30"
+            },
+            "przyjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-08-18",
+                "godzina": "16:30"
+            }
+        },
+        {
+            "id": 48,
+            "firma": "Voyager Transport",
+            "numer_rejsu": "IBZ-382",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-07-25",
+                "godzina": "19:49"
+            },
+            "przyjazd": {
+                "miasto": "Poznań",
+                "data": "2025-07-26",
+                "godzina": "05:49"
+            }
+        },
+        {
+            "id": 49,
+            "firma": "PKS Białystok",
+            "numer_rejsu": "AQU-550",
+            "odjazd": {
+                "miasto": "Kalisz",
+                "data": "2025-05-13",
+                "godzina": "14:46"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-05-13",
+                "godzina": "20:46"
+            }
+        },
+        {
+            "id": 50,
+            "firma": "Leo Express",
+            "numer_rejsu": "XLQ-961",
+            "odjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-12-27",
+                "godzina": "06:33"
+            },
+            "przyjazd": {
+                "miasto": "Zabrze",
+                "data": "2025-12-27",
+                "godzina": "11:33"
+            }
+        },
+        {
+            "id": 51,
+            "firma": "Sindbad",
+            "numer_rejsu": "ORR-803",
+            "odjazd": {
+                "miasto": "Kraków",
+                "data": "2025-10-19",
+                "godzina": "18:32"
+            },
+            "przyjazd": {
+                "miasto": "Szczecin",
+                "data": "2025-10-19",
+                "godzina": "23:32"
+            }
+        },
+        {
+            "id": 52,
+            "firma": "PKS Białystok",
+            "numer_rejsu": "YEL-379",
+            "odjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-04-03",
+                "godzina": "09:30"
+            },
+            "przyjazd": {
+                "miasto": "Siemianowice Śląskie",
+                "data": "2025-04-03",
+                "godzina": "11:30"
+            }
+        },
+        {
+            "id": 53,
+            "firma": "PKS Płock",
+            "numer_rejsu": "WED-203",
+            "odjazd": {
+                "miasto": "Częstochowa",
+                "data": "2025-08-16",
+                "godzina": "08:20"
+            },
+            "przyjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-08-16",
+                "godzina": "15:20"
+            }
+        },
+        {
+            "id": 54,
+            "firma": "Lux Express",
+            "numer_rejsu": "PMQ-472",
+            "odjazd": {
+                "miasto": "Kielce",
+                "data": "2025-11-04",
+                "godzina": "10:45"
+            },
+            "przyjazd": {
+                "miasto": "Ostrołęka",
+                "data": "2025-11-04",
+                "godzina": "20:45"
+            }
+        },
+        {
+            "id": 55,
+            "firma": "Agat",
+            "numer_rejsu": "WXJ-582",
+            "odjazd": {
+                "miasto": "Stalowa Wola",
+                "data": "2025-03-23",
+                "godzina": "14:06"
+            },
+            "przyjazd": {
+                "miasto": "Katowice",
+                "data": "2025-03-23",
+                "godzina": "21:06"
+            }
+        },
+        {
+            "id": 56,
+            "firma": "PKS Siedlce",
+            "numer_rejsu": "EXF-654",
+            "odjazd": {
+                "miasto": "Tczew",
+                "data": "2025-10-04",
+                "godzina": "19:58"
+            },
+            "przyjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-10-05",
+                "godzina": "01:58"
+            }
+        },
+        {
+            "id": 57,
+            "firma": "PKS Opole",
+            "numer_rejsu": "PTA-139",
+            "odjazd": {
+                "miasto": "Elbląg",
+                "data": "2025-01-14",
+                "godzina": "17:54"
+            },
+            "przyjazd": {
+                "miasto": "Inowrocław",
+                "data": "2025-01-14",
+                "godzina": "21:54"
+            }
+        },
+        {
+            "id": 58,
+            "firma": "FlixBus Polska",
+            "numer_rejsu": "GQK-505",
+            "odjazd": {
+                "miasto": "Konin",
+                "data": "2025-09-12",
+                "godzina": "15:23"
+            },
+            "przyjazd": {
+                "miasto": "Konin",
+                "data": "2025-09-12",
+                "godzina": "17:23"
+            }
+        },
+        {
+            "id": 59,
+            "firma": "PKS Elbląg",
+            "numer_rejsu": "AGR-344",
+            "odjazd": {
+                "miasto": "Płock",
+                "data": "2025-03-10",
+                "godzina": "14:54"
+            },
+            "przyjazd": {
+                "miasto": "Częstochowa",
+                "data": "2025-03-10",
+                "godzina": "23:54"
+            }
+        },
+        {
+            "id": 60,
+            "firma": "PKS Siedlce",
+            "numer_rejsu": "DIH-316",
+            "odjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-03-10",
+                "godzina": "18:46"
+            },
+            "przyjazd": {
+                "miasto": "Koszalin",
+                "data": "2025-03-10",
+                "godzina": "23:46"
+            }
+        },
+        {
+            "id": 61,
+            "firma": "Sindbad",
+            "numer_rejsu": "WDO-509",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-11-03",
+                "godzina": "14:49"
+            },
+            "przyjazd": {
+                "miasto": "Warszawa",
+                "data": "2025-11-03",
+                "godzina": "23:49"
+            }
+        },
+        {
+            "id": 62,
+            "firma": "PKS Elbląg",
+            "numer_rejsu": "ECL-663",
+            "odjazd": {
+                "miasto": "Olsztyn",
+                "data": "2025-12-11",
+                "godzina": "12:40"
+            },
+            "przyjazd": {
+                "miasto": "Białystok",
+                "data": "2025-12-11",
+                "godzina": "18:40"
+            }
+        },
+        {
+            "id": 63,
+            "firma": "Voyager Transport",
+            "numer_rejsu": "DEN-219",
+            "odjazd": {
+                "miasto": "Płock",
+                "data": "2025-08-21",
+                "godzina": "22:45"
+            },
+            "przyjazd": {
+                "miasto": "Lublin",
+                "data": "2025-08-22",
+                "godzina": "02:45"
+            }
+        },
+        {
+            "id": 64,
+            "firma": "Voyager Transport",
+            "numer_rejsu": "UFV-390",
+            "odjazd": {
+                "miasto": "Lubin",
+                "data": "2025-09-15",
+                "godzina": "20:03"
+            },
+            "przyjazd": {
+                "miasto": "Chorzów",
+                "data": "2025-09-16",
+                "godzina": "04:03"
+            }
+        },
+        {
+            "id": 65,
+            "firma": "PKS Olsztyn",
+            "numer_rejsu": "IGO-136",
+            "odjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-11-20",
+                "godzina": "15:50"
+            },
+            "przyjazd": {
+                "miasto": "Zamość",
+                "data": "2025-11-20",
+                "godzina": "23:50"
+            }
+        },
+        {
+            "id": 66,
+            "firma": "Agat",
+            "numer_rejsu": "KKH-752",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-08-20",
+                "godzina": "10:05"
+            },
+            "przyjazd": {
+                "miasto": "Lublin",
+                "data": "2025-08-20",
+                "godzina": "14:05"
+            }
+        },
+        {
+            "id": 67,
+            "firma": "PKS Białystok",
+            "numer_rejsu": "VTZ-735",
+            "odjazd": {
+                "miasto": "Gdynia",
+                "data": "2025-10-01",
+                "godzina": "14:25"
+            },
+            "przyjazd": {
+                "miasto": "Jelenia Góra",
+                "data": "2025-10-01",
+                "godzina": "21:25"
+            }
+        },
+        {
+            "id": 68,
+            "firma": "Neobus",
+            "numer_rejsu": "ABN-530",
+            "odjazd": {
+                "miasto": "Jelenia Góra",
+                "data": "2025-04-17",
+                "godzina": "22:31"
+            },
+            "przyjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-04-18",
+                "godzina": "02:31"
+            }
+        },
+        {
+            "id": 69,
+            "firma": "TransKinga",
+            "numer_rejsu": "NTD-501",
+            "odjazd": {
+                "miasto": "Kielce",
+                "data": "2025-11-18",
+                "godzina": "00:20"
+            },
+            "przyjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-11-18",
+                "godzina": "07:20"
+            }
+        },
+        {
+            "id": 70,
+            "firma": "Eurobus",
+            "numer_rejsu": "KUG-577",
+            "odjazd": {
+                "miasto": "Zamość",
+                "data": "2025-01-16",
+                "godzina": "00:34"
+            },
+            "przyjazd": {
+                "miasto": "Olsztyn",
+                "data": "2025-01-16",
+                "godzina": "03:34"
+            }
+        },
+        {
+            "id": 71,
+            "firma": "InterBus",
+            "numer_rejsu": "KNI-345",
+            "odjazd": {
+                "miasto": "Tczew",
+                "data": "2025-04-01",
+                "godzina": "01:50"
+            },
+            "przyjazd": {
+                "miasto": "Gorzów Wielkopolski",
+                "data": "2025-04-01",
+                "godzina": "08:50"
+            }
+        },
+        {
+            "id": 72,
+            "firma": "PKS Płock",
+            "numer_rejsu": "ADS-300",
+            "odjazd": {
+                "miasto": "Płock",
+                "data": "2025-08-24",
+                "godzina": "16:35"
+            },
+            "przyjazd": {
+                "miasto": "Białystok",
+                "data": "2025-08-24",
+                "godzina": "23:35"
+            }
+        },
+        {
+            "id": 73,
+            "firma": "PKS Nova",
+            "numer_rejsu": "CUE-521",
+            "odjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-02-07",
+                "godzina": "09:20"
+            },
+            "przyjazd": {
+                "miasto": "Białystok",
+                "data": "2025-02-07",
+                "godzina": "19:20"
+            }
+        },
+        {
+            "id": 74,
+            "firma": "PKS Zielona Góra",
+            "numer_rejsu": "SRO-168",
+            "odjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-07-01",
+                "godzina": "05:47"
+            },
+            "przyjazd": {
+                "miasto": "Wrocław",
+                "data": "2025-07-01",
+                "godzina": "15:47"
+            }
+        },
+        {
+            "id": 75,
+            "firma": "PKS Mrągowo",
+            "numer_rejsu": "GHA-379",
+            "odjazd": {
+                "miasto": "Włocławek",
+                "data": "2025-11-10",
+                "godzina": "08:24"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-11-10",
+                "godzina": "17:24"
+            }
+        },
+        {
+            "id": 76,
+            "firma": "PKS Polonus",
+            "numer_rejsu": "WFY-202",
+            "odjazd": {
+                "miasto": "Piotrków Trybunalski",
+                "data": "2025-10-25",
+                "godzina": "03:11"
+            },
+            "przyjazd": {
+                "miasto": "Jaworzno",
+                "data": "2025-10-25",
+                "godzina": "05:11"
+            }
+        },
+        {
+            "id": 77,
+            "firma": "Eurobus",
+            "numer_rejsu": "EFP-564",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-10-03",
+                "godzina": "08:42"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-10-03",
+                "godzina": "14:42"
+            }
+        },
+        {
+            "id": 78,
+            "firma": "Leo Express",
+            "numer_rejsu": "SAP-468",
+            "odjazd": {
+                "miasto": "Jaworzno",
+                "data": "2025-05-01",
+                "godzina": "13:52"
+            },
+            "przyjazd": {
+                "miasto": "Opole",
+                "data": "2025-05-01",
+                "godzina": "14:52"
+            }
+        },
+        {
+            "id": 79,
+            "firma": "Leo Express",
+            "numer_rejsu": "TIY-176",
+            "odjazd": {
+                "miasto": "Tarnobrzeg",
+                "data": "2025-11-25",
+                "godzina": "15:45"
+            },
+            "przyjazd": {
+                "miasto": "Szczecin",
+                "data": "2025-11-25",
+                "godzina": "23:45"
+            }
+        },
+        {
+            "id": 80,
+            "firma": "Eurobus",
+            "numer_rejsu": "EEY-501",
+            "odjazd": {
+                "miasto": "Jastrzębie-Zdrój",
+                "data": "2025-12-19",
+                "godzina": "05:28"
+            },
+            "przyjazd": {
+                "miasto": "Ostrołęka",
+                "data": "2025-12-19",
+                "godzina": "09:28"
+            }
+        },
+        {
+            "id": 81,
+            "firma": "PKS Polonus",
+            "numer_rejsu": "FCE-879",
+            "odjazd": {
+                "miasto": "Włocławek",
+                "data": "2025-05-01",
+                "godzina": "17:03"
+            },
+            "przyjazd": {
+                "miasto": "Częstochowa",
+                "data": "2025-05-02",
+                "godzina": "03:03"
+            }
+        },
+        {
+            "id": 82,
+            "firma": "PolskiBus",
+            "numer_rejsu": "RNX-861",
+            "odjazd": {
+                "miasto": "Poznań",
+                "data": "2025-09-08",
+                "godzina": "14:29"
+            },
+            "przyjazd": {
+                "miasto": "Zabrze",
+                "data": "2025-09-08",
+                "godzina": "21:29"
+            }
+        },
+        {
+            "id": 83,
+            "firma": "FlixBus Polska",
+            "numer_rejsu": "RPD-806",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-11-05",
+                "godzina": "15:06"
+            },
+            "przyjazd": {
+                "miasto": "Bydgoszcz",
+                "data": "2025-11-05",
+                "godzina": "16:06"
+            }
+        },
+        {
+            "id": 84,
+            "firma": "PKS Olsztyn",
+            "numer_rejsu": "QAA-747",
+            "odjazd": {
+                "miasto": "Przemyśl",
+                "data": "2025-12-25",
+                "godzina": "17:26"
+            },
+            "przyjazd": {
+                "miasto": "Poznań",
+                "data": "2025-12-25",
+                "godzina": "19:26"
+            }
+        },
+        {
+            "id": 85,
+            "firma": "PKS S.A. Radom",
+            "numer_rejsu": "SPH-472",
+            "odjazd": {
+                "miasto": "Białystok",
+                "data": "2025-05-20",
+                "godzina": "08:24"
+            },
+            "przyjazd": {
+                "miasto": "Częstochowa",
+                "data": "2025-05-20",
+                "godzina": "15:24"
+            }
+        },
+        {
+            "id": 86,
+            "firma": "PKS Suwałki",
+            "numer_rejsu": "NSO-304",
+            "odjazd": {
+                "miasto": "Tarnów",
+                "data": "2025-03-07",
+                "godzina": "19:02"
+            },
+            "przyjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-03-08",
+                "godzina": "01:02"
+            }
+        },
+        {
+            "id": 87,
+            "firma": "Neobus",
+            "numer_rejsu": "QIL-622",
+            "odjazd": {
+                "miasto": "Szczecin",
+                "data": "2025-02-04",
+                "godzina": "15:53"
+            },
+            "przyjazd": {
+                "miasto": "Chorzów",
+                "data": "2025-02-05",
+                "godzina": "00:53"
+            }
+        },
+        {
+            "id": 88,
+            "firma": "PKS Siedlce",
+            "numer_rejsu": "SBB-348",
+            "odjazd": {
+                "miasto": "Opole",
+                "data": "2025-03-09",
+                "godzina": "13:36"
+            },
+            "przyjazd": {
+                "miasto": "Legnica",
+                "data": "2025-03-09",
+                "godzina": "14:36"
+            }
+        },
+        {
+            "id": 89,
+            "firma": "PKS Olsztyn",
+            "numer_rejsu": "MFM-955",
+            "odjazd": {
+                "miasto": "Toruń",
+                "data": "2025-09-18",
+                "godzina": "18:42"
+            },
+            "przyjazd": {
+                "miasto": "Gliwice",
+                "data": "2025-09-19",
+                "godzina": "02:42"
+            }
+        },
+        {
+            "id": 90,
+            "firma": "InterBus",
+            "numer_rejsu": "ICX-474",
+            "odjazd": {
+                "miasto": "Radom",
+                "data": "2025-06-13",
+                "godzina": "21:38"
+            },
+            "przyjazd": {
+                "miasto": "Płock",
+                "data": "2025-06-14",
+                "godzina": "00:38"
+            }
+        },
+        {
+            "id": 91,
+            "firma": "FlixBus Polska",
+            "numer_rejsu": "TSW-287",
+            "odjazd": {
+                "miasto": "Nowy Sącz",
+                "data": "2025-10-17",
+                "godzina": "11:00"
+            },
+            "przyjazd": {
+                "miasto": "Lublin",
+                "data": "2025-10-17",
+                "godzina": "15:00"
+            }
+        },
+        {
+            "id": 92,
+            "firma": "PKS Białystok",
+            "numer_rejsu": "RKB-504",
+            "odjazd": {
+                "miasto": "Kraków",
+                "data": "2025-12-21",
+                "godzina": "06:21"
+            },
+            "przyjazd": {
+                "miasto": "Gliwice",
+                "data": "2025-12-21",
+                "godzina": "07:21"
+            }
+        },
+        {
+            "id": 93,
+            "firma": "PKS Zielona Góra",
+            "numer_rejsu": "BFF-755",
+            "odjazd": {
+                "miasto": "Gliwice",
+                "data": "2025-11-06",
+                "godzina": "05:07"
+            },
+            "przyjazd": {
+                "miasto": "Szczecin",
+                "data": "2025-11-06",
+                "godzina": "06:07"
+            }
+        },
+        {
+            "id": 94,
+            "firma": "PKS Przemyśl",
+            "numer_rejsu": "GXO-368",
+            "odjazd": {
+                "miasto": "Poznań",
+                "data": "2025-06-21",
+                "godzina": "22:15"
+            },
+            "przyjazd": {
+                "miasto": "Wrocław",
+                "data": "2025-06-22",
+                "godzina": "07:15"
+            }
+        },
+        {
+            "id": 95,
+            "firma": "PKS Tarnobrzeg",
+            "numer_rejsu": "NUC-709",
+            "odjazd": {
+                "miasto": "Częstochowa",
+                "data": "2025-01-02",
+                "godzina": "05:57"
+            },
+            "przyjazd": {
+                "miasto": "Jaworzno",
+                "data": "2025-01-02",
+                "godzina": "09:57"
+            }
+        },
+        {
+            "id": 96,
+            "firma": "TransExpres",
+            "numer_rejsu": "ZUO-664",
+            "odjazd": {
+                "miasto": "Katowice",
+                "data": "2025-06-18",
+                "godzina": "22:17"
+            },
+            "przyjazd": {
+                "miasto": "Słupsk",
+                "data": "2025-06-19",
+                "godzina": "07:17"
+            }
+        },
+        {
+            "id": 97,
+            "firma": "PKS Elbląg",
+            "numer_rejsu": "XBX-589",
+            "odjazd": {
+                "miasto": "Gdańsk",
+                "data": "2025-01-15",
+                "godzina": "03:33"
+            },
+            "przyjazd": {
+                "miasto": "Opole",
+                "data": "2025-01-15",
+                "godzina": "07:33"
+            }
+        },
+        {
+            "id": 98,
+            "firma": "PKS Polonus",
+            "numer_rejsu": "MOY-864",
+            "odjazd": {
+                "miasto": "Tarnów",
+                "data": "2025-04-19",
+                "godzina": "19:15"
+            },
+            "przyjazd": {
+                "miasto": "Rzeszów",
+                "data": "2025-04-20",
+                "godzina": "04:15"
+            }
+        },
+        {
+            "id": 99,
+            "firma": "PKS Polonus",
+            "numer_rejsu": "RKH-356",
+            "odjazd": {
+                "miasto": "Zabrze",
+                "data": "2025-03-04",
+                "godzina": "14:52"
+            },
+            "przyjazd": {
+                "miasto": "Sosnowiec",
+                "data": "2025-03-04",
+                "godzina": "17:52"
+            }
+        }
+    ]
+}
