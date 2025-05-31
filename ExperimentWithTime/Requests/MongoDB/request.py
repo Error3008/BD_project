@@ -41,7 +41,7 @@ def sredni_czas_podrozy_dla_firmy(db):
             "$sort": {"sredni_czas_podrozy": -1}
         }
     ]
-    return list(db.przyjazdy_i_odjazdy.aggregate(pipeline))
+    return db.przyjazdy_i_odjazdy.aggregate(pipeline)
 
 def statystyki_stanowisk_odjazdu(db):
     pipeline = [
@@ -112,7 +112,7 @@ def statystyki_stanowisk_odjazdu(db):
             "$sort": {"liczba_pasazerow": -1}
         }
     ]
-    return list(db.przyjazdy_i_odjazdy.aggregate(pipeline))
+    return db.przyjazdy_i_odjazdy.aggregate(pipeline)
 
 def statystyki_trasy_popularny_rejs(db):
     pipeline = [
@@ -139,7 +139,7 @@ def statystyki_trasy_popularny_rejs(db):
             "$sort": {"liczba_pasazerow": -1}
         }
     ]
-    return list(db.bilety.aggregate(pipeline))
+    return db.bilety.aggregate(pipeline)
 
 def statystyki_firmy(db):
     pipeline = [
@@ -190,4 +190,12 @@ def statystyki_firmy(db):
             "$sort": {"srednio_pasazerow_na_rejs": -1}
         }
     ]
-    return list(db.przyjazdy_i_odjazdy.aggregate(pipeline))
+    return db.przyjazdy_i_odjazdy.aggregate(pipeline)
+
+
+mongo_requests = (
+    sredni_czas_podrozy_dla_firmy,
+    statystyki_stanowisk_odjazdu,
+    statystyki_trasy_popularny_rejs,
+    statystyki_firmy
+)
