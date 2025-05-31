@@ -1,1 +1,1 @@
-ConnectionString = "mongodb+srv://alex:1404@cluster0.3kmh6bq.mongodb.net/"
+ConnectionString = "mongodb://localhost:27017"

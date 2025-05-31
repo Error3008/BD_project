@@ -4,13 +4,15 @@ from DB_DATA import ConnectionString
 
 myclient = pymongo.MongoClient(ConnectionString)
 
-with open("JsonDataGenerate/output/bilety_kolejowy.json", "r") as file:
-    data = json.load(file)["bilety"]
+with open("JsonDataGenerate/output/bilety.json", "r") as file:
+    bilety = json.load(file)["bilety"]
+with open("JsonDataGenerate/output/przyjazdy_i_odjazdy.json", "r") as file:
+    przyjazdy_i_odjazdy = json.load(file)["autobusy"]
     
 mydb = myclient["alex"]
-mycol = mydb["bilety_kolejowy"]
+bilety_col = mydb["bilety"]
+przyjazdy_i_odjazdy_col = mydb["przyjazdy_i_odjazdy"]
 
-x = mycol.insert_many(data)
 
-print(myclient.list_database_names())
-print(x.inserted_ids)
+bilety_col.insert_many(bilety)
+przyjazdy_i_odjazdy_col.insert_many(przyjazdy_i_odjazdy)

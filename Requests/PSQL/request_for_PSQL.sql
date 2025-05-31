@@ -7,7 +7,7 @@ SELECT firma,
             - (odjazd__data + odjazd__godzina))) / 3600
         ), 1) AS sredni_czas_podrozy
 FROM przyjazdy_i_odjazdy
-GROUP BY firma;
+GROUP BY firma
 ORDER BY sredni_czas_podrozy DESC;
 -- 2. Statystyki dotyczące liczby pasażerów i rejsów dla każdego stanowiska odjazdu
 SELECT 
